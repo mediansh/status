@@ -1,7 +1,7 @@
-url: https://api.median.sh
-status: down
-code: 404
-responseTime: 257
-lastUpdated: 2026-05-07T10:08:32.476Z
+url: https://api.cloud.median.sh
+status: up
+code: 200
+responseTime: 268
+lastUpdated: 2026-05-07T10:12:21.423Z
 startTime: 2026-05-07T10:08:19.819Z
 generator: Upptime <https://github.com/upptime/upptime>
