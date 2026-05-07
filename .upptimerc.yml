@@ -7,7 +7,7 @@ sites:
     url: https://median.sh
   - name: api
     url: https://api.cloud.median.sh
-  - name: processing
+  - name: feedback
     url: https://api.median.sh/status
   - name: discord
     url: https://median-discord-bot.fly.dev/health
