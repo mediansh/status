@@ -9,6 +9,9 @@ sites:
     url: https://api.cloud.median.sh
   - name: feedback
     url: https://api.median.sh/status
+    expectedStatusCodes: [200, 503]
+    __dangerous__body_degraded: '"status":"degraded"'
+    __dangerous__body_down: '"status":"outage"'
   - name: discord
     url: https://median-discord-bot.fly.dev/health
 
