@@ -40,19 +40,19 @@
     "url": "https://api.median.sh/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.median.sh.ico",
     "slug": "feedback",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 4382,
-    "timeWeek": 1040,
-    "timeMonth": 651,
-    "timeYear": 598,
+    "time": 599,
+    "timeDay": 2497,
+    "timeWeek": 992,
+    "timeMonth": 650,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2026-06-10": 0
+      "2026-06-10": 2
     }
   },
   {
