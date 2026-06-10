@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 598,
-    "timeWeek": 365,
-    "timeMonth": 344,
-    "timeYear": 349,
+    "time": 351,
+    "timeDay": 433,
+    "timeWeek": 373,
+    "timeMonth": 352,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 205,
-    "timeWeek": 311,
-    "timeMonth": 225,
+    "timeDay": 235,
+    "timeWeek": 302,
+    "timeMonth": 226,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -40,18 +40,20 @@
     "url": "https://api.median.sh/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.median.sh.ico",
     "slug": "feedback",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 748,
-    "timeWeek": 562,
-    "timeMonth": 521,
-    "timeYear": 490,
-    "dailyMinutesDown": {}
+    "time": 598,
+    "timeDay": 4382,
+    "timeWeek": 1040,
+    "timeMonth": 651,
+    "timeYear": 598,
+    "dailyMinutesDown": {
+      "2026-06-10": 0
+    }
   },
   {
     "name": "discord",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 240,
-    "timeWeek": 626,
+    "time": 385,
+    "timeDay": 422,
+    "timeWeek": 601,
     "timeMonth": 387,
-    "timeYear": 384,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   }
 ]
